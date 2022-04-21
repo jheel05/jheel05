@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jheel Soni</h1>
 <h3 align="center">A zealous Web developer and a Tech enthusiast from India.</h3>
 <p align="Center"><img align="Center" width="600" height = "300" src="giphy.gif"></p>
-- 🌱 I’m currently learning **Reactjs, Node.js and few other tech skills**
+- 🌱 I’m currently learning **ReactJS, Node.js and few other tech skills**
 
 - 👨‍💻 All of my projects are available at [https://jheel05.github.io/Soni-Jheel/](https://jheel05.github.io/Soni-Jheel/)
 
