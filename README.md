@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://github.com/himanshusharma89/himanshusharma89/blob/master/Hi.gif" width="25px">, I'm Jheel Soni</h1>
+<h1 align="center">Hi <img src="https://github.com/himanshusharma89/himanshusharma89/blob/master/Hi.gif" width="47px" hight="47px">, I'm Jheel Soni</h1>
 <h3 align="center">A zealous Web developer and a Tech enthusiast from India.</h3>
 <p align="Center"><img align="Center" width="600" height = "300" src="giphy.gif"></p>
 
