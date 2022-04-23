@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://github.com/himanshusharma89/himanshusharma89/blob/master/Hi.gif" width="47px" hight="47px">, I'm Jheel Soni</h1>
-<h3 align="center">A zealous Web developer and a Tech enthusiast from India.</h3>
+<h3 align="center">A zealous Full Stack Developer and a Tech enthusiast from India.</h3>
 <p align="Center"><img align="Center"  src="I0RO.gif"></p>
 - 🌱 I’m currently learning **ReactJS, Node.js and few other tech skills**
  
