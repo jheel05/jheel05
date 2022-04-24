@@ -41,7 +41,15 @@
 </p>
  <h3 align="left">Github Stats:</h3>
  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jheel05&theme=holi-theme&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+<details>
+  <summary><b><samp>📈 My GitHub Stats</samp></b></summary>
+<br>
+<p align="center"> <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=jheel05&theme=holi-theme&date_format=M%20j%5B%2C%20Y%5D"/>
+ </p>
+
+</details>
+ 
+
 <br>
 ![snake svg](https://github.com/jheel05/jheel05/blob/main/github-contribution-grid-snake.svg)
  
