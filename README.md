@@ -42,7 +42,7 @@
  <h3 align="left">Github Stats:</h3>
  
 <details>
-  <summary><b><samp>📈 My GitHub Stats</samp></b></summary>
+  <summary><b><samp>📈 My GitHub Stats(Click)</samp></b></summary>
 <br>
 <p align="center"> <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=jheel05&theme=holi-theme&date_format=M%20j%5B%2C%20Y%5D"/>
  </p>
