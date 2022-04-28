@@ -6,7 +6,7 @@
  
 - 👨‍💻 All of my projects are available at [https://jheel05.github.io/Soni-Jheel/](https://jheel05.github.io/Soni-Jheel/)
 
-- 💬 Ask me anything about my domain, **🤝 ready to help:)**
+- 💬 Ask me anything about my domain, **🤝 ready to help: )**
 
 - 📫 How to reach me: email: **jheelsoni05@gmail.com**
 
