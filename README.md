@@ -2,7 +2,7 @@
 <h3 align="center">A zealous Full Stack Developer and a Tech enthusiast from India.</h3>
 <p align="Center"><img align="Center" width="800" src="phy.gif"></p>
 
-- 🌱 I’m currently learning **ReactJS, Node.js and few other tech skills**
+- 🌱 I’m currently learning **Recommendation Engine and few other tech skills**
  
 - 👨‍💻 All of my projects are available at [https://jheel05.github.io/Soni-Jheel/](https://jheel05.github.io/Soni-Jheel/)
 
