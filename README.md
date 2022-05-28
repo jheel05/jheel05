@@ -26,7 +26,6 @@
 
 <h3>Tools and Platform:</h3>
 <p>
- 
 ![Google Cloud Platform](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Qwiklabs](https://img.shields.io/badge/Qwiklabs-F5CD0E?style=for-the-badge&logo=Qwiklabs&logoColor=800000)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
@@ -37,8 +36,8 @@
 ![Brackets](https://img.shields.io/badge/Brackets-2b2e40?style=for-the-badge&logo=brackets&logoColor=white)
 ![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)
  
- 
 </p>
+
  <h3 align="left">Github Stats:</h3>
  
 <details>
