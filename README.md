@@ -46,7 +46,7 @@
 <br>
 <p align="center"> 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jheel05&theme=holi-theme)]
+ ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jheel05&theme=holi-theme&hide_border=true)
 
 </p>
 
