@@ -8,7 +8,7 @@
 
 - 💬 Ask me anything about my domain, **🤝 ready to help : )**
 
-- 📫 To reach me:  **jheelsoni05@gmail.com**
+- 📫 To reach me:  **jheelsoni05@gmail.com** 
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/jheel-soni/](https://www.linkedin.com/in/jheel-soni/)
 
