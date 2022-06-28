@@ -1,5 +1,9 @@
 <h1 align="center">Hello!👋, I'm Jheel Soni</h1>
-<h3 align="center">A zealous Full Stack Developer and a Tech enthusiast from India.</h3>
+<h3 align="center">
+ 
+![Typing SVG](https://readme-typing-svg.herokuapp.com?size=23&duration=5019&multiline=true&height=80&lines=A+zealous+Full+Stack+Developer+;%26+A+Tech+enthusiast+from+India)
+
+</h3>
 <p align="Center"><img align="Center" width="800" src="phy.gif"></p>
 
 - 🌱 I’m currently learning **How does recommendation system works and some other skills**
@@ -40,7 +44,17 @@
 </p>
 
  <h3 align="left">Github Stats:</h3>
+ <details>
+  <summary><b><samp>📈 My GitHub Stats(Click)</samp></b></summary>
+<br>
+<p align="center"> 
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jheel05&theme=react&hide_border=true)
+</p>
+
+![Jheel's github activity graph](https://activity-graph.herokuapp.com/graph?username=jheel05&bg_color=000000&color=5bcedc&line=5bcdec&point=5bcdec&area=true&hide_border=true)
  
+</details>
 
  <br>
 
