@@ -41,17 +41,7 @@
 
  <h3 align="left">Github Stats:</h3>
  
-<details>
-  <summary><b><samp>📈 My GitHub Stats(Click)</samp></b></summary>
-<br>
-<p align="center"> 
 
- ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jheel05&theme=holi-theme&hide_border=true)
-
-</p>
-
-<a href="https://github.com/jheel05/github-readme-activity-graph"><img alt="Jheel Soni Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=jheel05&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-</details>
  <br>
 
 ![snake svg](https://github.com/jheel05/jheel05/blob/main/github-contribution-grid-snake.svg)
