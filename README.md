@@ -49,13 +49,14 @@
  <details>
   <summary><b><samp>📈 My GitHub Stats(Click)</samp></b></summary>
 <br>
-<p align="center"> 
-
- ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jheel05&theme=react&hide_border=true&background=000000)
-
- </p>
-
-![Jheel's github activity graph](https://activity-graph.herokuapp.com/graph?username=jheel05&bg_color=000000&color=5bcedc&line=5bcdec&point=5bcdec&area=true&hide_border=true)
+<p align="center">
+    <a href="https://github.com/jheel05/github-readme-stats"><img alt="Jheel's Github Stats" src="https://github-readme-stats.vercel.app/api?username=jheel05&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/jheel05/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Jheel's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=jheel05&theme=react&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
+</p>
+ 
+<a href="https://github.com/jheel05/github-readme-activity-graph"><img alt="Jheel's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=jheel05&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
  
 </details>
 
@@ -63,7 +64,6 @@
 
 ![snake svg](https://github.com/jheel05/jheel05/blob/main/github-contribution-grid-snake.svg)
  
- 
- 
+
 
 
