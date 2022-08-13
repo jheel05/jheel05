@@ -47,7 +47,7 @@
 
  <h2 align="left">Github Stats:</h2>
 
- <details>
+<details>
   <summary><b><samp>📈 My GitHub Stats(Click)</samp></b></summary>
 <br>
 <p align="center">
