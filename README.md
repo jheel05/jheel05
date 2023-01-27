@@ -45,6 +45,11 @@
  
 </p>
 
+ <h2 align="left">🎴Badges</h2>
+ 
+[![@jheel05's Holopin board](https://holopin.me/@jheelsoni05)](https://holopin.io/@jheelsoni05)
+
+
  <h2 align="left">Github Stats:</h2>
 
 <details>
