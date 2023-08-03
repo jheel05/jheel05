@@ -30,7 +30,7 @@
 
 </p>
 <h2 align="left">Languages and Tools:</h2>
-<p align="center">  
+<p align="left">  
 <!-- JAVA -->
 <img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/1200px-Java_programming_language_logo.svg.png" alt="Java Logo" width="40" height="50">
 <!-- C -->
