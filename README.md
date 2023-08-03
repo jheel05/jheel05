@@ -30,7 +30,7 @@
 
 </p>
 <h2 align="left">Languages and Tools:</h2>
-<p align="left">  
+<p align="center">  
 <!-- JAVA -->
 <img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/1200px-Java_programming_language_logo.svg.png" alt="Java Logo" width="40" height="50">
 <!-- C -->
@@ -48,6 +48,8 @@
  <!-- git -->
  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
 <!-- bootstrap -->
+<br>
+<br>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
 <!-- github -->
 <img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/Octocat.png" alt="drawing" width="50"/>  
