@@ -32,43 +32,25 @@
 </p>
 <h2 align="left">Languages and Tools:</h2>
 <p align="left">  
-<!-- JAVA -->
-<img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/1200px-Java_programming_language_logo.svg.png" alt="Java Logo" width="40" height="50">
-<!-- C -->
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
-<!-- python -->
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
- <!-- cpp -->
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
- <!-- html -->
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
- <!-- css -->
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
- <!-- javascript -->
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
- <!-- git -->
- <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-<!-- bootstrap -->
+ 
+![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png) 
+![Python](https://img.icons8.com/color/48/000000/python.png) 
+![C](https://img.icons8.com/color/48/000000/c-programming.png) 
+![C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png) 
+![HTML](https://img.icons8.com/color/48/000000/html-5.png) 
+![CSS](https://img.icons8.com/color/48/000000/css3.png) 
+![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) 
+
 <br>
-<br>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
-<!-- github -->
-<img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/Octocat.png" alt="drawing" width="50"/>  
-<!-- mysql -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-<!-- react -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
-<!-- sass -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> 
-<!-- django -->
-<img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" alt="django" width="40" height="40"/>
-<!--  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>-->
-<!-- <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> -->
-<!-- <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/>  -->
-<!-- figma -->
-<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
-<!-- ts -->
-<img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="ts" width="40" height="40"/>
+
+![TypeScript](https://img.icons8.com/color/48/000000/typescript.png) 
+![SQL](https://img.icons8.com/color/48/000000/sql.png) 
+![React](https://img.icons8.com/color/48/000000/react-native.png) 
+![MySQL](https://img.icons8.com/color/48/000000/mysql.png) 
+![Sass](https://img.icons8.com/color/48/000000/sass.png) 
+![Django](https://img.icons8.com/color/48/000000/django.png) 
+![Figma](https://img.icons8.com/color/48/000000/figma.png) 
+
 
 </p>
 <p align="Center">
