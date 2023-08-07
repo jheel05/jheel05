@@ -22,10 +22,11 @@
 <h2 align="left">Connect with me:</h2>
 
 <p align="left">
-<a href="https://twitter.com/soni_jheel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="soni_jheel" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/jheel-soni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jheel-soni" height="30" width="40" /></a>
 
- [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/jheelsoni05)
+
+[![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/jheel-soni)
+[![Twitter](https://img.icons8.com/color/48/000000/twitter.png)](https://twitter.com/soni_jheel)
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/jheelsoni05)
 
 </a>
 
