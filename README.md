@@ -4,7 +4,7 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?size=23&duration=5019&multiline=true&height=60&lines=A+zealous+Full+Stack+Developer+;%26+A+Tech+enthusiast+from+India)
 
 </h2>
-<p align="Center"><img align="Center" width="800" src="phy.gif"></p>
+<!-- <p align="Center"><img align="Center" width="800" src="phy.gif"></p> -->
 
 
 - 🌱 I am happy to discuss about: Data Structures and Algorithms, Programming in Python/Java, Computer concepts(Operating Systems,Computer Networking,Databases), Full Stack development & OpenAI.
