@@ -7,7 +7,7 @@
 <p align="Center"><img align="Center" width="800" src="phy.gif"></p>
 
 
-- 🌱 I’m currently learning **How does recommendation system works and some other skills**
+- 🌱 I am happy to discuss about: Data Structures and Algorithms, Programming in Python/Java, Computer concepts(Operating Systems,Computer Networking,Databases), Full Stack development & OpenAI.
  
 - 👨‍💻 All of my projects are available at [https://jheel05.github.io/Soni-Jheel/](https://jheel05.github.io/Soni-Jheel/)
 
