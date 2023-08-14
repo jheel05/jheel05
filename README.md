@@ -73,9 +73,11 @@
 </p>
 
  <h2 align="left">🎴Badges</h2>
- 
+ <details>
+  
 [![@jheel05's Holopin board](https://holopin.me/@jheelsoni05)](https://holopin.io/@jheelsoni05)
 
+</details>
 
  <h2 align="left">Github Stats:</h2>
 
@@ -87,11 +89,12 @@
 <img  alt="Jheel's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=jheel05&theme=react&hide_border=true&stroke=0000&background=060A0CD0"/></a>
 </p>
  
-<a href="https://github.com/jheel05/github-readme-activity-graph"><img alt="Jheel's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=jheel05&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<!-- <a href="https://github.com/jheel05/github-readme-activity-graph"><img alt="Jheel's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=jheel05&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a> -->
  
 </details>
 
  <br>
+
 
 ![snake svg](https://github.com/jheel05/jheel05/blob/main/github-contribution-grid-snake.svg) 
  
