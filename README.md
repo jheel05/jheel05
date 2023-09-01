@@ -6,6 +6,7 @@
 </h2>
 <!-- <p align="Center"><img align="Center" width="800" src="phy.gif"></p> -->
 
+<p align="Center"><img align="center" width="700" src="https://demotix.com/wp-content/uploads/2019/06/How-to-Hire-Web-Developer.gif"></p>
 
 - 🌱 I am happy to discuss about: Data Structures and Algorithms, Programming in Python/Java, Computer concepts(Operating Systems,Computer Networking,Databases), Full Stack development & OpenAI.
  
