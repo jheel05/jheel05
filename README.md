@@ -1,7 +1,7 @@
 <h1 align="center">Hello!👋, I'm Jheel Soni</h1>
 <h2 align="center">
  
-![Typing SVG](https://readme-typing-svg.herokuapp.com?size=23&duration=5019&multiline=false&height=65&lines=A+Zealous+Full+Stack+Developer+!+)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?size=23&duration=5019&multiline=false&height=65&lines=A+Zealous+Full+Stack+Developer+!+From+India!)
 
 </h2>
 <!-- <p align="Center"><img align="Center" width="800" src="phy.gif"></p> -->
