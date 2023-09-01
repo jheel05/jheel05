@@ -81,8 +81,8 @@
 
  <h2 align="left">Github Stats:</h2>
 
-<details>
-  <summary><b><samp>📈 My GitHub Stats(Click)</samp></b></summary>
+
+ <!-- <summary><b><samp>📈 My GitHub Stats(Click)</samp></b></summary>-->
 <br>
 <p align="center">
 <a href="https://github.com/jheel05/github-readme-streak-stats">
@@ -91,7 +91,7 @@
  
 <!-- <a href="https://github.com/jheel05/github-readme-activity-graph"><img alt="Jheel's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=jheel05&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a> -->
  
-</details>
+
 
  <br>
 
